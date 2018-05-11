@@ -1,0 +1,2 @@
+5.10    ferplus_pretrain_vgg is ok
+5.11    finetune_AFEW(FC): 39.75%(AFEW_VAL, frame) and sum_compute_accuracy:46.475%(AFEW_VAL)
