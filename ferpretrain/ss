@@ -1,1 +1,11 @@
-
+1. learning_rate_U: 
+    0.0003 -> 0.002 is great do not improve too fast. 0.016 is great 86.88% is very great
+    1,3,6,8 epoch is recommad
+    
+    if train from stretch lr: 0.001 is recommand
+    
+    
+2. largemargin should not less 100.
+3. learning_rate_D:
+    6, 12, 18, epoch is recommand
+    best could be 88.7%
